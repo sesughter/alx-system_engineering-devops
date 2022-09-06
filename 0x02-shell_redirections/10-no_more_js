@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -l *.js | rm 
+grep -f file '*.js' | rm 
