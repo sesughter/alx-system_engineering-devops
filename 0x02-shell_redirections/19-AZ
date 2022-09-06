@@ -1,2 +1,2 @@
 #!/bin/bash
-echo A Z | tr Z e 
+tr A Z | tr Z e 
