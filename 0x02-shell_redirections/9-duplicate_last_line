@@ -1,2 +1,2 @@
 #!/bin/bash
-tail iacta | cp  iacta
+head iacta >> iacta
