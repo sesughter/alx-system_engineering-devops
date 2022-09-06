@@ -1,2 +1,2 @@
-#!/bin/bash
-grep -f file '*.js' | rm 
+#!nin/bash
+grep -f file "*.js" | xargs rm
